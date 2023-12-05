@@ -16,8 +16,7 @@ Lab four focused on the conversion of volumes to millileters in the metric syste
 
 Lab seven centered around the concept of function definitions and command line arguments. Both of these learning topics were utilized to execute date differences as well as the implementation of parking restrictions. I enjoyed this particular lab because my partner and I were able to apply our knowledge from a previous lab in order to make the problem solving easier. 
 
-* Lab 8
+* Lab 12
 
-Lab eight pertained to the idea of data cleaning and the calculation of the average of numbers given as command line arguments. When both concepts are applied, our program outputs a word lib game “Mad Libs” and the computation of the arithmetic mean. This lab was interesting because my partner and I made us of the double and the float variable. 
-
+In lab 12, my partner and I created a program that when ran, outputted a colored gif with the text " CPSC120" as well as generating a random coin flip. Utilzing the function "RandomDouble01()" we were able to genrate abitrary integers corresponding to various coin flips and by using the arithmetic functions provided, my partner and I were able to compute by analyzing basic geomtric functions in order to maniuplate different color intensities. In additon to the codes, we also worked with object oriented classes which I am still relatively unfmailar with so this project widened my perspective on C++.
 
