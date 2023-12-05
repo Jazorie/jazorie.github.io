@@ -18,5 +18,5 @@ Lab seven centered around the concept of function definitions and command line a
 
 * Lab 12
 
-In lab 12, my partner and I created a program that when ran, outputted a colored gif with the text " CPSC120" as well as generating a random coin flip. Utilzing the function "RandomDouble01()" we were able to genrate abitrary integers corresponding to various coin flips and by using the arithmetic functions provided, my partner and I were able to compute by analyzing basic geomtric functions in order to manipulate different color intensities. In additon to the codes, we also worked with object oriented classes which I am still relatively unfmailar with so this project widened my perspective on C++.
+In lab 12, my partner and I created a program that when ran, outputted a colored gif with the text " CPSC120" as well as generating a random coin flip. Utilizing the function "RandomDouble01()" we were able to generate arbitrary integers corresponding to various coin flips and by using the arithmetic functions provided, my partner and I were able to compute by analyzing basic geometric functions in order to manipulate different color intensities. In additon to the codes, we also worked with object oriented classes which I am still relatively unfamiliar with so this project widened my perspective on C++.
 
